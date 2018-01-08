@@ -1,0 +1,28 @@
+1 0 0 0 0 0  
+1 1 0 0 0 0 
+0 1 0 0 0 0
+0 1 1 1 1 1
+0 0 0 0 0 1  
+0 0 0 0 1 1
+0 0 0 0 1 0
+
+The 1's in the road will be the road
+The 0's are empty space where vehicles cannot travel
+
+In theory this could be done with booleans as well
+t - true
+f - false
+
+t f f f f f
+t t f f f f
+f t f f f f
+f t t t t t
+f f f f f t
+f f f f t t
+f f f f t f
+
+But with numbers there is a possibility
+of more than 0's and 1's which is more
+desirable if some roads are stopped up or
+if some roads are tolls or for any reason
+there need be priority roads.
