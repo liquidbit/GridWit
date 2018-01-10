@@ -1,0 +1,14 @@
+January 17th 2018 - Done with basic package setup and theoretical links
+
+January 31st 2018 - Done with simple grid and vehicle packages. Implement a grid that can have 
+routes found through it and fed to the vehicle class.
+
+February 14th 2018 - Begin protocol for vehicle communication 
+
+February 28th 2018 - Have most basic protocol instructions done and begin minecraft implementation of the protocol
+
+Goals:
+Minecraft visual of protocol
+Unity visual of protocol
+Physical representation of protocol
+REAL LIFE
